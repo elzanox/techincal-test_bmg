@@ -17,3 +17,5 @@ setelah produk dipilih user akan membayar sesuai harga produk yang harus dibayar
 
   program ini hanya tampilan awal saja sesuai yang diminta rekruter, kalau secara keseluruhan bisa menambahkan protokol pengiriman agar bisa berkomunikasi dengan mesin dan backend
   seperti mqtt dan terhubung dengan mysql atau firebase untuk daftar produk yang ada 
+
+  kebetulan saya ahlinya dibidang IoT Engineer, atau yang berhadapan langsung dengan mesinnya. kalau terlalu kurang dalam pembuatan software seperti ini ya mohon maaf hihihi
