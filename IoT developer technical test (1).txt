@@ -1,0 +1,11 @@
+Test: IoT Developer
+
+Question or Test Problem: Make a software demo for Coffee Vending Machine. How a user starting choosing different provided beverage, pay for sold beverage and finally get beverage. UI could be following option: command line or shell interaction, desktop GUI (in Windows, Linux or Mac) or web based demo. Point plus if running software would be in containerized environment (docker, podman or other container).
+
+Deliverable:
+Send link for repository (github, gitlab, bitbucket or any shared repository) to test coordinator. In readme please explain followings:
+- how to setup and run demo software
+- how the code for software was structured
+- what were functionalities of Coffee Vending Machine Software
+
+Time to work on test max. 1 day.
