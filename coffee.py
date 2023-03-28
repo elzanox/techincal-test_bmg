@@ -91,6 +91,8 @@ class Payment:
             self.status_message.set("Maaf, jumlah uang yang Anda masukkan kurang.")
         else:
             self.status_message.set("Terima kasih! Pembayaran: Rp" + str(amount) + " berhasil")
+            
+        ## apabila pebayaran berhasil nantinya akan di lempar ke bagian backend untuk memverifikasi
         self.pay_button.config(state=tk.DISABLED)
         self.amount_entry.config(state=tk.DISABLED)
 
